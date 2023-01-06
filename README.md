@@ -1,2 +1,6 @@
 # miniature-doodle
-Ross is better than dan.
+
+## Important things we have learned
+- GitHub Collaborators
+- Andrew is bad at most things
+- Ross is a liar
