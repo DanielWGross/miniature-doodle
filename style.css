@@ -1,0 +1,5 @@
+.mtg-bg {
+  background: rgb(249, 250, 244);
+  background: linear-gradient(90deg, rgba(249, 250, 244, 1) 5%, rgba(14, 104, 171, 1) 50%, rgba(21, 11, 0, 1) 84%);
+  height: 100vh;
+}
